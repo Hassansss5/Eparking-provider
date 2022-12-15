@@ -1,0 +1,1 @@
+export const Ngrok_Url="https://690a-39-33-165-92.in.ngrok.io"
